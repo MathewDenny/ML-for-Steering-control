@@ -1,7 +1,5 @@
-# Dillinger
-
 # Youtube Link
-You can check out the video [video compilation](https://youtu.be/O6e9llSp5co) of the car driving itself.
+You can check out the video [video ](https://youtu.be/O6e9llSp5co) of the car driving itself.
 
 # End to End Learning for Self-Driving Cars
 The aim of the project is to train a deep network to predict the steering angles from a set of 3 camera images. We use the Udacity simulator to test the predicted steering angles.
